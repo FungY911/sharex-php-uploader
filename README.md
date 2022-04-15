@@ -1,1 +1,1 @@
-# sharex-php-uploader
+# sharex uploader By PHP
